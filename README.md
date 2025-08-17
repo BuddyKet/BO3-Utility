@@ -1,13 +1,13 @@
 # BO3-Utility
 Version française uniquement pour le moment
 
-Pour utiliser BO3 Utility facilement, sans devoir exécuter le programme depuis son dossier racine, vous pouvez :
+**Pour utiliser BO3 Utility facilement, sans devoir exécuter le programme depuis son dossier racine, vous pouvez :**
 
 
 
 \- **Épingler dans le menu Démarrer**
 
-  Faites un clic droit sur l’exécutable → Épingler à l’écran de démarrage / Épingler à la barre des tâches.
+  _Faites un clic droit sur l’exécutable → Épingler à l’écran de démarrage / Épingler à la barre des tâches._
 
 
 
@@ -17,11 +17,11 @@ Pour utiliser BO3 Utility facilement, sans devoir exécuter le programme depuis 
 
 \- **Créer un raccourci sur le bureau**
 
-  Faites un clic droit sur l’exécutable → Envoyer vers → Bureau (créer un raccourci).
+  _Faites un clic droit sur l’exécutable → Envoyer vers → Bureau (créer un raccourci)._
 
 
 
-*## Support \& Contact*
+**_Support \& Contact_**
 
 
 
